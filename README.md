@@ -1,3 +1,5 @@
+![Banner](https://cdn.discordapp.com/attachments/837085289268379649/849442680647319553/unknown.png)
+
 # Tenacious Disease
 A Morrowind mod that makes diseases scale to player attributes and get worse over time.
 
@@ -24,7 +26,3 @@ You are no longer notified when you initially contract a disease.
 When symptoms start to appear hours or days later, you may recieve a message saying "You don't feel so good.".
 
 (Note: the Ashfall Addition may include a Medicine Skill which will hide the name of a disease unless your skill is high enough to diagnose).
-
-## Assets
-
-Banner: https://cdn.discordapp.com/attachments/837085289268379649/849442680647319553/unknown.png
